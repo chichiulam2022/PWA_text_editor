@@ -28,3 +28,19 @@ The following steps to guide you how to use this app: </br>
  ## Demo 
  Below is the demo video that demonstrates the app.
  
+## Technologies
+* JavaScript
+* Express.js
+* IndexedDB
+* Webpack
+
+## Licence
+This project is licensed under the MIT licence. 
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blueviolet.svg)
+
+## Contributors
+​Contributors: <b>Chi Chiu Lam</b>
+
+## Questions
+If you have any questions about the repo, feel free to find me on my GitHub account <b><i>chichiulam2022</b></i> or email me at lamcc90@gmail.com.
