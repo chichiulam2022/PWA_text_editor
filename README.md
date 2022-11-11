@@ -26,8 +26,11 @@ The following steps to guide you how to use this app: </br>
  Then go to https://localhost:3000 to view the app.
  
  ## Demo 
- Below is the demo video that demonstrates the app.
- 
+ Below is the demo video that demonstrates the app. </br></br>
+ Demo video: https://drive.google.com/file/d/14p-Bjo5DkQE2YhMY5KZP5hHYZvFTh1jO/view
+ </br>
+ <img width="700" alt="Screenshot 2022-11-10 at 7 48 02 PM" src="https://user-images.githubusercontent.com/108379616/201236573-2896bd94-a188-4239-b9d0-3c441efd4c30.png">
+
 ## Technologies
 * JavaScript
 * Express.js
